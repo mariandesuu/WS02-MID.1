@@ -9,6 +9,11 @@
 }
 
 @font-face{
+	font-family: 'Moredya';
+	src: url(Moredya-Regular.ttf);
+}
+
+@font-face{
 	font-family: 'KeepSmile';
 	src: url(Keepsmile.otf);
 }
@@ -51,8 +56,9 @@ h1{
 .details{
 	text-align: center;
 	padding: 30px;
-	font-size: 20px;
-	font-family: Cutesy;
+	font-size: 18px;
+	font-family: Moredya;
+/*	font-weight: bold;*/
 }
 
 .about{
@@ -77,11 +83,11 @@ ul{
 	padding-left: 20px;
 }
 
-li{
+.about-list{
 	margin-bottom: 20px;
 /*	color: #2C458D;*/
-	font-size: 25px;
-	font-family: Cutesy;
+	font-size: 20px;
+	font-family: Moredya;
 }
 
 .background{
@@ -103,7 +109,7 @@ li{
 }
 
 .friend-list{
-	display: flex;
+/*	display: flex;*/
 }
 
 .cinnamoroll-friends{
@@ -118,6 +124,7 @@ li{
 
 .popo{
 	padding: 25px;
+	font-family: Moredya;
 }
 
 footer{
@@ -129,6 +136,6 @@ footer{
 	background-color: #91CDF8;
 	border-bottom-right-radius: 10px;
 	border-bottom-left-radius: 10px;
-	font-size: 20px;
-	font-family: Cutesy;
+	font-size: 15px;
+	font-family: Moredya;
 }
