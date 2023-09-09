@@ -129,6 +129,7 @@ ul{
 	align-items: center;
 	justify-contents: center;
 	margin: auto;
+	display: flex;
 }
 
 .char-pic{
