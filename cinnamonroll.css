@@ -126,6 +126,7 @@ ul{
 	padding: 25px;
 	font-family: Moredya;
 	font-size: 20px;
+	align-items: center;
 }
 
 .char-pic{
@@ -133,6 +134,7 @@ ul{
 	width:60%;
 	border-radius: 50%;
 	border: solid 5px #91CDF8;
+	margin-top: 20px;
 }
 
 footer{
