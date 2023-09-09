@@ -127,6 +127,7 @@ ul{
 	font-family: Moredya;
 	font-size: 20px;
 	align-items: center;
+	justify-contents: center;
 }
 
 .char-pic{
