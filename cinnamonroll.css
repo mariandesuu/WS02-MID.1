@@ -127,6 +127,13 @@ ul{
 	font-family: Moredya;
 }
 
+.char-pic{
+	height: auto;
+	width:80%;
+	border-radius: 50%;
+	border: solid 5px #91CDF8;
+}
+
 footer{
 	width: 40%;
 	height: auto;
